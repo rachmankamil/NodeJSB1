@@ -31,3 +31,5 @@ if (true){
 }
 d=50
 console.log("outer if "+d)
+
+console.log(1234);
